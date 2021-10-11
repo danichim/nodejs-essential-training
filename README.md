@@ -1,1 +1,0 @@
-# nodejs-essential-training

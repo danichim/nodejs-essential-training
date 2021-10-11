@@ -1,0 +1,13 @@
+{
+  "sample": true,
+  "colorList": [
+    {
+      "color": "blue",
+      "hex": "#fff"
+    },
+    {
+      "color": "green",
+      "hex": "#00ff"
+    }
+  ]
+}
